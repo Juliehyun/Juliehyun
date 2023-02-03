@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **juliehyun0211@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jihyun-nam](www.linkedin.com/in/jihyun-nam)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jihyun-nam-5087601a1/](www.linkedin.com/in/jihyun-nam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
