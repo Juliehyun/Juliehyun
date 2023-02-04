@@ -2,9 +2,9 @@
 <h3 align="center">An analytical software developer</h3>
 
 
-- 👩‍💻 I have 4 years of hands-on working experiences as a Software Developer
+- 👩‍💻 I have 4 years of hands-on working experience as a Software Developer
 
-- 📚 Currently, I have been learning **Computer Programming and Analysis** at Seneca College
+- 📚 Currently, I have been studying **Computer Programming and Analysis** at Seneca College
 
 - 💬 Ask me about **Java, C/C++, JavaScript, React, NodeJs, Oracle**
 
