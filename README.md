@@ -6,7 +6,7 @@
 
 - 📚 Currently, I have been studying **Computer Programming and Analysis** at Seneca College
 
-- 💬 Ask me about **Java, C/C++, JavaScript, React, NodeJs, Oracle**
+- 💬 Ask me about **Java, C/C++, JavaScript, React, NodeJs, Express.js, Next.js, Oracle, MSSQL**
 
 - 📫 How to reach me **juliehyun0211@gmail.com**
 
